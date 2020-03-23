@@ -9,5 +9,8 @@
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/asm/asm/3.0/asm-3.0-sources.jar!/" />
     </SOURCES>
+    <excluded>
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/3.0/asm-3.0.jar!/" />
+    </excluded>
   </library>
 </component>
